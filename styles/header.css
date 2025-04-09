@@ -8,9 +8,13 @@
     align-items: center;
 }
 
-.container_imagem,
 .container_frase {
     padding: 1em;
+}
+
+.container_imagem{
+    width: 15em;
+    height: 10em;
 }
 
 .container_titulo,
